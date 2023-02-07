@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+1. What excites or interests you about coding? What did you learn this week?
+    The thing that excites me about coding is the way we can manipulate the overall look of the system or the contents that you want to change according to your liking. Also there are much more new coding techniques that we can learn to help solve problems or just enhance the solution. 
+    This week I learnt about the use of React hooks for localStorage and most about the animation styling.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2. What is a recent technical challenge you experienced and how did you solve it?
+    The recent technical challenge that I experienced was when I was creating a login page and got stuck during the authentication process for login. To help me solve this challenge I got help from a friend and stackoverflow.
 
-## Available Scripts
+3. Talk about your preferred development environment (tools and technologies you prefer using) or a cool project that you've recently worked on (if any).
+    Development environments I use is mostly VSCode for any language I'm working on and mostly have been using for React and Android Studio for mobile development. The most recent project I've worked on was an app for a Notification System but only on the designing and frontend part. 
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+4. What is your general expectation from this internship program?
+    General expectations from this internship program for me is to learn more about the environment that I'll be working on and creating much more better contents. I would like to learn and develop the skills with some personal development which might help me develop my carrer as well.
+    
+5. What mediums do you prefer to learn programming?
+    I started to learn programming during my high school days when we learned about web development and then started gaining interest in programming and joined an IT major. I mostly use online documentaions and online tutorials(mostly have been using freeCodeCamp, codeacademy, YouTube) about the language that I'm trying to learn.
